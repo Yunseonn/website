@@ -1,0 +1,110 @@
+/*로고*/
+img:first-child{
+    position: absolute;
+    top:3%;
+    left:37%;
+    
+}
+/*설명글*/
+img:nth-child(2){
+    position: absolute;
+    top: 93%;
+    left: 23%;
+    
+}
+/*about*/
+video:nth-child(3){
+    position: absolute;
+    top: 7%;
+    left: 3%;
+    
+}
+/*pfanne*/
+img:nth-child(4){
+    position: absolute;
+    top: 79%;
+    left: 41%;
+    
+}
+
+/*archive*/
+img:nth-child(5){
+    position: absolute;
+    top: 57%;
+    left: 83%;
+    
+}
+/*zettel*/
+img:nth-child(6){ /*kartoffel*/
+    position: absolute;
+    top: 21%;
+    left: 24%;
+    
+}
+
+img:nth-child(7){ /*buletten*/
+    position: absolute;
+    top: 36%;
+    left: 13%;
+    
+}
+
+img:nth-child(8){ /*toast*/
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    
+}
+
+img:nth-child(9){ /*nurungji*/
+    position: absolute;
+    top: 33%;
+    left: 71%;
+    
+}
+
+img:nth-child(10){ /*gimbap*/
+    position: absolute;
+    top: 54%;
+    left: 63%;
+    
+}
+
+img:nth-child(11){ /*bulgogi*/
+    position: absolute;
+    top: 24%;
+    left: 58%;
+    
+}
+
+img:nth-child(12){ /*kohl*/
+    position: absolute;
+    top: 44%;
+    left: 29%;
+    
+}
+
+img:nth-child(13){ /*janchi*/
+    position: absolute;
+    top: 45%;
+    left: 47%;
+    
+}
+
+img:nth-child(14){ /*zettel*/
+    position: absolute;
+    top: 62%;
+    left: 1%;
+    
+}
+
+img:last-child{ /*zettel*/
+    position: absolute;
+    top:3%;
+    left:75%;
+    
+}
+
+.draggable:hover{
+    cursor: url(move.png), auto;
+}
