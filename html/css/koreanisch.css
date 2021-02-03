@@ -2,14 +2,14 @@
 img:first-child{
     position: absolute;
     top:3%;
-    left:37%;
+    left:39%;
     
 }
 /*설명글*/
 img:nth-child(2){
     position: absolute;
     top: 93%;
-    left: 23%;
+    left: 29%;
     
 }
 /*about*/
@@ -23,35 +23,38 @@ video:nth-child(3){
 img:nth-child(4){
     position: absolute;
     top: 79%;
-    left: 41%;
+    left: 42%;
     
 }
 
 /*archive*/
 img:nth-child(5){
     position: absolute;
-    top: 57%;
-    left: 83%;
+    top: 56%;
+    left: 82%;
     
 }
+
+
+
 /*zettel*/
 img:nth-child(6){ /*kartoffel*/
     position: absolute;
     top: 21%;
-    left: 24%;
+    left: 25%;
     
 }
 
 img:nth-child(7){ /*buletten*/
     position: absolute;
     top: 36%;
-    left: 13%;
+    left: 14%;
     
 }
 
 img:nth-child(8){ /*toast*/
     position: absolute;
-    top: 25%;
+    top: 27%;
     left: 40%;
     
 }
@@ -65,21 +68,21 @@ img:nth-child(9){ /*nurungji*/
 
 img:nth-child(10){ /*gimbap*/
     position: absolute;
-    top: 54%;
-    left: 63%;
+    top: 51%;
+    left: 64%;
     
 }
 
 img:nth-child(11){ /*bulgogi*/
     position: absolute;
-    top: 24%;
-    left: 58%;
+    top: 26%;
+    left: 57%;
     
 }
 
 img:nth-child(12){ /*kohl*/
     position: absolute;
-    top: 44%;
+    top: 45%;
     left: 29%;
     
 }
@@ -94,13 +97,13 @@ img:nth-child(13){ /*janchi*/
 img:nth-child(14){ /*zettel*/
     position: absolute;
     top: 62%;
-    left: 1%;
+    left: 2%;
     
 }
 
 img:last-child{ /*zettel*/
     position: absolute;
-    top:3%;
+    top:2%;
     left:75%;
     
 }
