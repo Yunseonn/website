@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Minipax_Bold';
+    src:    url('../font/Minipax-Bold.eot');
+    src:    url('../font/Minipax-Bold.woff') format('woff'),
+            url('../font/Minipax-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
